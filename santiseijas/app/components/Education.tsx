@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Education() {
+const Education: React.FC = () => {
   return (
     <section>
       <h2>Formación</h2>

@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Contact() {
+const Contact: React.FC = () => {
   return (
     <section>
       <h2>Contacto</h2>

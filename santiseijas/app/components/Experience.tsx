@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Experience() {
+const Experience: React.FC = () => {
   return (
     <section>
       <h2>Experiencia</h2>
